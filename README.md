@@ -1,4 +1,4 @@
-# oviond-com
+# Oviond
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,173 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-oviond-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://oviond.com/
+Oviond provides a marketing reporting platform for agencies, connecting over 100 marketing data sources to create branded, automated dashboards and multi‑page reports. The SaaS solution offers white‑label reporting, unlimited users, AI‑powered report building via its MCP server, and full API access, all included in a simple per‑client pricing model.
+
+**Areas:** Marketing Reporting · Agency Software · Dashboard · Data Integration · White‑label · Reporting Automation
+
+## Oviond on APIs.io
+
+Everything profiled for Oviond is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oviond-com/](https://apis.io/providers/oviond-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [Oviond Account API](https://apis.io/apis/oviond-com/oviond-com-account-api/) — The Account API from Oviond — 2 operation(s) for account.
+- [Oviond Activity API](https://apis.io/apis/oviond-com/oviond-com-activity-api/) — The Activity API from Oviond — 1 operation(s) for activity.
+- [Oviond Archive API](https://apis.io/apis/oviond-com/oviond-com-archive-api/) — The Archive API from Oviond — 4 operation(s) for archive.
+- [Oviond Ask Oviond API](https://apis.io/apis/oviond-com/oviond-com-ask-oviond-api/) — The Ask Oviond API from Oviond — 9 operation(s) for ask oviond.
+- [Oviond Assets API](https://apis.io/apis/oviond-com/oviond-com-assets-api/) — The Assets API from Oviond — 7 operation(s) for assets.
+- [Oviond Automations API](https://apis.io/apis/oviond-com/oviond-com-automations-api/) — The Automations API from Oviond — 8 operation(s) for automations.
+- [Oviond Billing API](https://apis.io/apis/oviond-com/oviond-com-billing-api/) — The Billing API from Oviond — 3 operation(s) for billing.
+- [Oviond Branding API](https://apis.io/apis/oviond-com/oviond-com-branding-api/) — The Branding API from Oviond — 2 operation(s) for branding.
+- [Oviond Calculated Metrics API](https://apis.io/apis/oviond-com/oviond-com-calculated-metrics-api/) — The Calculated Metrics API from Oviond — 3 operation(s) for calculated metrics.
+- [Oviond Clients API](https://apis.io/apis/oviond-com/oviond-com-clients-api/) — The Clients API from Oviond — 10 operation(s) for clients.
+- [Oviond Company API](https://apis.io/apis/oviond-com/oviond-com-company-api/) — The Company API from Oviond — 1 operation(s) for company.
+- [Oviond Custom Data API](https://apis.io/apis/oviond-com/oviond-com-custom-data-api/) — The Custom Data API from Oviond — 3 operation(s) for custom data.
+- [Oviond Custom Domains API](https://apis.io/apis/oviond-com/oviond-com-custom-domains-api/) — The Custom Domains API from Oviond — 4 operation(s) for custom domains.
+- [Oviond Data API](https://apis.io/apis/oviond-com/oviond-com-data-api/) — The Data API from Oviond — 1 operation(s) for data.
+- [Oviond Email API](https://apis.io/apis/oviond-com/oviond-com-email-api/) — The Email API from Oviond — 13 operation(s) for email.
+- [Oviond Exports API](https://apis.io/apis/oviond-com/oviond-com-exports-api/) — The Exports API from Oviond — 2 operation(s) for exports.
+- [Oviond Folders API](https://apis.io/apis/oviond-com/oviond-com-folders-api/) — The Folders API from Oviond — 2 operation(s) for folders.
+- [Oviond Goals API](https://apis.io/apis/oviond-com/oviond-com-goals-api/) — The Goals API from Oviond — 3 operation(s) for goals.
+- [Oviond Health API](https://apis.io/apis/oviond-com/oviond-com-health-api/) — The Health API from Oviond — 1 operation(s) for health.
+- [Oviond Media API](https://apis.io/apis/oviond-com/oviond-com-media-api/) — The Media API from Oviond — 6 operation(s) for media.
+- [Oviond Notifications API](https://apis.io/apis/oviond-com/oviond-com-notifications-api/) — The Notifications API from Oviond — 1 operation(s) for notifications.
+- [Oviond Pages API](https://apis.io/apis/oviond-com/oviond-com-pages-api/) — The Pages API from Oviond — 2 operation(s) for pages.
+- [Oviond PDF API](https://apis.io/apis/oviond-com/oviond-com-pdf-api/) — The PDF API from Oviond — 2 operation(s) for pdf.
+- [Oviond Report Changes API](https://apis.io/apis/oviond-com/oviond-com-report-changes-api/) — The Report Changes API from Oviond — 1 operation(s) for report changes.
+- [Oviond Reports API](https://apis.io/apis/oviond-com/oviond-com-reports-api/) — The Reports API from Oviond — 9 operation(s) for reports.
+- [Oviond Search API](https://apis.io/apis/oviond-com/oviond-com-search-api/) — The Search API from Oviond — 1 operation(s) for search.
+- [Oviond Templates API](https://apis.io/apis/oviond-com/oviond-com-templates-api/) — The Templates API from Oviond — 3 operation(s) for templates.
+- [Oviond Themes API](https://apis.io/apis/oviond-com/oviond-com-themes-api/) — The Themes API from Oviond — 3 operation(s) for themes.
+- [Oviond Users API](https://apis.io/apis/oviond-com/oviond-com-users-api/) — The Users API from Oviond — 9 operation(s) for users.
+- [Oviond Widgets API](https://apis.io/apis/oviond-com/oviond-com-widgets-api/) — The Widgets API from Oviond — 6 operation(s) for widgets.
+- [Oviond Data Sources API](https://apis.io/apis/oviond-com/oviond-com-data-sources-api/) — The Data Sources API from Oviond — 16 operation(s) for data sources.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Oviond Agentic Access](https://apis.io/agentic-access/oviond-com/oviond-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BulkEachWidgetsRequest](https://apis.io/schemas/oviond-com/oviond-com-bulk-each-widgets-request/)
+- [BulkUpdateWidgetsRequest](https://apis.io/schemas/oviond-com/oviond-com-bulk-update-widgets-request/)
+- [CreateReportRequest](https://apis.io/schemas/oviond-com/oviond-com-create-report-request/)
+- [UpdateCompanyRequest](https://apis.io/schemas/oviond-com/oviond-com-update-company-request/)
+- [UpdateReportRequest](https://apis.io/schemas/oviond-com/oviond-com-update-report-request/)
+- [UpdateWidgetRequest](https://apis.io/schemas/oviond-com/oviond-com-update-widget-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Oviond Com Context](https://apis.io/jsonld/oviond-com/oviond-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Oviond Openapi Overlay](https://apis.io/overlays/oviond-com/oviond-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Oviond API Rules](https://apis.io/rules/oviond-com/oviond-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Oviond Authentication](https://apis.io/security/oviond-com/oviond-com-authentication/)
+- [Oviond Domain Security](https://apis.io/security/oviond-com/oviond-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Oviond Plans Pricing](https://apis.io/plans/oviond-com/oviond-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Oviond Rate Limits](https://apis.io/rate-limits/oviond-com/oviond-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://oviond.com/)
+- [Documentation](https://docs.oviond.com/)
+- [Getting started](https://docs.oviond.com/quickstart)
+- [API reference](https://docs.oviond.com/api/introduction)
+- [Pricing](https://www.oviond.com/pricing/)
+- [Changelog](https://docs.oviond.com/changelog/2026-11)
+- [Blog](https://www.oviond.com/blog/)
+- [Terms of service](https://www.oviond.com/legal/terms-conditions/)
+- [Privacy policy](https://www.oviond.com/legal/privacy-policy/)
+- [GitHub](https://github.com/oviond)
+
+## API Evangelist rating
+
+**Kin Score 57.8** — strong · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 41.0 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 40.9 |
+
+**Agent readiness 55.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oviond-com/](https://apis.io/providers/oviond-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Oviond: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/oviond-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
